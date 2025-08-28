@@ -94,7 +94,7 @@
 
 3. Install dependensi Python:
    ```bash
-   pip install rich scapy
+   pip install -r requirements.txt
    ```
 
 4. Jalankan tool:
