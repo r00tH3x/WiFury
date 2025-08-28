@@ -79,18 +79,25 @@
 
 ###  Instalasi Tool Ini
 
-1. Clone repository:
+1. Install Terlebih Dahulu:
+   ```bash
+   sudo apt update
+   sudo apt install aircrack-ng hashcat
+   sudo apt install hashcat-utils
+   ```
+
+2. Clone repository:
    ```bash
    git clone https://github.com/r00tH3x/WiFury.git
    cd WiFury
    ```
 
-2. Install dependensi Python:
+3. Install dependensi Python:
    ```bash
    pip install rich scapy
    ```
 
-3. Jalankan tool:
+4. Jalankan tool:
    ```bash
    sudo python3 wifury.py
    ```
