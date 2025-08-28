@@ -1,4 +1,4 @@
-# WiFury – “The Finisher”
+# 🤖WiFury – “The Finisher”
 
 > *“The Finisher”* – Battle Tested  
 
