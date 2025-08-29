@@ -1,16 +1,16 @@
-# 🤖WiFury – “The Finisher”
+# 🤖WiFury – “The Finisher🛜”
 
 > *“The Finisher”* – Battle Tested  
 
 ---
 
-##  Deskripsi Singkat
+## 📖 Deskripsi Singkat
 
-**WiFury** adalah tool berbasis Python yang dirancang untuk memudahkan proses pemindaian, penangkapan handshake, dan cracking jaringan Wi‑Fi dengan proteksi WPA/WPA2. Tools ini dibangun memakai library **Rich** untuk tampilan antarmuka yang menarik dan interaktif.
+🛸**WiFury** adalah tool berbasis Python yang dirancang untuk memudahkan proses pemindaian, penangkapan handshake, dan cracking jaringan Wi‑Fi dengan proteksi WPA/WPA2. Tools ini dibangun memakai library **Rich** untuk tampilan antarmuka yang menarik dan interaktif.
 
 ---
 
-##  Fitur Utama
+## ⚙️ Fitur Utama 
 
 1. **Banner Keren**  
    Tampilan banner ASCII dengan frame panel warna-warni menggunakan `rich` untuk kesan “gaya dan garang” di setiap run.
@@ -63,12 +63,12 @@
 
 ---
 
-##  Instalasi & Persyaratan
+## 🛠️ Instalasi & Persyaratan
 
-###  Prasyarat Sistem
+### 📢 Prasyarat Sistem
 
-- **Python 3.x**
-- Dijalankan dengan **hak akses root** (gunakan `sudo`)
+- **Python 3.x**☠️
+- 👾Dijalankan dengan **hak akses root** (gunakan `sudo`)
 - Tool eksternal:
   - `airmon-ng`
   - `airodump-ng`
@@ -104,7 +104,7 @@
 
 ---
 
-##  Cara Menggunakan WiFury
+## 🆗 Cara Menggunakan WiFury
 
 1. Jalankan dengan `sudo python3 wifury.py`.
 2. **Display Banner** lalu cek dependensi.
@@ -127,7 +127,7 @@
 
 ---
 
-##  Struktur File yang Dihasilkan
+## 🎈 Struktur File yang Dihasilkan
 
 - `wifury_config.json`: konfigurasi (interface default)
 - `wifury_learned.json`: pola password hasil crack sebelumnya
@@ -140,7 +140,7 @@
 
 ---
 
-##  Contoh Alur Penggunaan
+## ✔️ Contoh Alur Penggunaan
 
 ```
 sudo python3 wifury.py
@@ -158,7 +158,7 @@ sudo python3 wifury.py
 
 ---
 
-##  Catatan Penting
+## 🚫 Catatan Penting
 
 - Tool hanya untuk **tujuan pengujian dan edukasi**, tidak digunakan untuk hal ilegal.
 - Selalu gunakan jaringan di mana kamu memiliki izin eksplisit.
